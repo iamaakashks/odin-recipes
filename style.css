@@ -1,0 +1,22 @@
+.Heading{
+    font-weight: bolder;
+    color: rgb(255, 102, 0);
+    background-color: rgb(255, 196, 0);
+    font-size: xx-large;
+    display: inline-block;
+    text-align: center;
+    
+    
+}
+.Wrapper{
+    color: darkred;
+    font-weight: bold;
+    font-size: x-large;
+    background-color: rgba(252, 123, 123, 0.3);
+    display: inline-block;
+   
+}
+li{
+color: brown;
+font-size: x-large;
+}
